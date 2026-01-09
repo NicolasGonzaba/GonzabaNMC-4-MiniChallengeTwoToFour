@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/myapi.csproj": {}
+    "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\myapi.csproj": {}
   },
   "projects": {
-    "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/myapi.csproj": {
+    "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\myapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/myapi.csproj",
+        "projectUniqueName": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\myapi.csproj",
         "projectName": "myapi",
-        "projectPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/myapi.csproj",
-        "packagesPath": "/Users/nicolasgonzaba/.nuget/packages/",
-        "outputPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/obj/",
+        "projectPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\myapi.csproj",
+        "packagesPath": "C:\\Users\\Eliasaf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicolasgonzaba/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Eliasaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

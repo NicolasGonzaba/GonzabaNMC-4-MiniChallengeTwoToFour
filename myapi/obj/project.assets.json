@@ -3562,19 +3562,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/nicolasgonzaba/.nuget/packages/": {}
+    "C:\\Users\\Eliasaf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/myapi.csproj",
+      "projectUniqueName": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\myapi.csproj",
       "projectName": "myapi",
-      "projectPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/myapi.csproj",
-      "packagesPath": "/Users/nicolasgonzaba/.nuget/packages/",
-      "outputPath": "/Users/nicolasgonzaba/Documents/CodeStack/Level 2/L2 Homework/GonzabaNMC#4-MiniChallengeTwoToFour/myapi/obj/",
+      "projectPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\myapi.csproj",
+      "packagesPath": "C:\\Users\\Eliasaf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\GonzabaNMC-4-MiniChallengeTwoToFour\\myapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nicolasgonzaba/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Eliasaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3652,16 +3652,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/nicolasgonzaba/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
-    }
-  ]
+  }
 }
